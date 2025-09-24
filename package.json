@@ -9,6 +9,7 @@
     "web": "expo export:web"
   },
   "dependencies": {
+    "@expo/metro-runtime": "0.13.7",
     "expo": "~54.0.10",
     "expo-status-bar": "~3.0.8",
     "react": "19.1.0",
